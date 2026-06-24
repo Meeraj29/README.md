@@ -6,7 +6,7 @@ I am a passionate Full-Stack Developer specializing in the MERN ecosystem. I lov
 ---
 
 ### 🚀 What I Do
-* 🌐 **Frontend:** React.js, Next.js, HTML5/CSS3, Tailwind CSS, 
+* 🌐 **Frontend:** React.js, Next.js, HTML5/CSS3, Tailwind CSS 
 * ⚙️ **Backend:** Node.js, Express.js, RESTful APIs, JWT Auth
 * 💾 **Databases & Cloud:** MongoDB, Mongoose, PostgreSQL, Cloudinary
 * 🛠️ **Tools & Workflows:** Git/GitHub, Postman, Vercel, Render
